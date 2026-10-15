@@ -2,22 +2,27 @@
 
 Portfolio project in which I practice the full testing process on the
 [Automation Exercise](https://automationexercise.com) demo e-shop –
-from test planning and manual testing to automated API and UI tests.
+from test planning and manual testing to API and database testing.
 
 ## Goals
 - Practice real-world QA work end to end
-- Improve my skills in Git, Python and test automation
+- Improve my skills in Git, Postman and SQL
 - Document my progress publicly
 
 ## Planned content
-| Phase | Topic | Tools | Status |
-|-------|-------|-------|--------|
-| 1 | Test plan, test cases, bug reports | Markdown, Jira/Zephyr | ⏳ planned |
-| 2 | API testing | Postman, Newman | ⏳ planned |
-| 3 | API tests in code | Python, pytest, requests | ⏳ planned |
-| 4 | UI test automation | Python, Selenium, pytest | ⏳ planned |
-| 5 | Database testing | PostgreSQL, SQL | ⏳ planned |
-| 6 | Continuous integration | GitHub Actions | ⏳ planned |
+| Step | Topic | Tools | Status |
+|------|-------|-------|--------|
+| 1 | Test plan | Markdown | ⏳ planned |
+| 2 | Test cases | Excel | ⏳ planned |
+| 3 | Test execution & bug reports | Excel, screenshots | ⏳ planned |
+| 4 | API testing | Postman | ⏳ planned |
+| 5 | Database testing | PostgreSQL, pgAdmin, SQL | ⏳ planned |
+| Bonus | UI test automation | Python, Selenium, pytest | ⏳ planned |
+
+## Repository structure
+- `01-manual-testing/` – test plan, test cases, bug reports
+- `02-api-testing/` – Postman collection and API test notes
+- `03-sql/` – sample database and SQL queries
 
 ## Author
 Dáša Hulanová – junior QA tester
