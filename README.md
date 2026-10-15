@@ -12,7 +12,7 @@ from test planning and manual testing to API and database testing.
 ## Planned content
 | Step | Topic | Tools | Status |
 |------|-------|-------|--------|
-| 1 | Test plan | Markdown | ⏳ planned |
+| 1 | Test plan | Markdown | ✅ done |
 | 2 | Test cases | Excel | ⏳ planned |
 | 3 | Test execution & bug reports | Excel, screenshots | ⏳ planned |
 | 4 | API testing | Postman | ⏳ planned |
