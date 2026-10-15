@@ -13,8 +13,8 @@ from test planning and manual testing to API and database testing.
 | Step | Topic | Tools | Status |
 |------|-------|-------|--------|
 | 1 | Test plan | Markdown | ✅ done |
-| 2 | Test cases | Excel | ⏳ planned |
-| 3 | Test execution & bug reports | Excel, screenshots | ⏳ planned |
+| 2 | Test cases | Google Sheets | ⏳ planned |
+| 3 | Test execution & bug reports | Google Sheets, screenshots | ⏳ planned |
 | 4 | API testing | Postman | ⏳ planned |
 | 5 | Database testing | PostgreSQL, pgAdmin, SQL | ⏳ planned |
 | Bonus | UI test automation | Python, Selenium, pytest | ⏳ planned |
