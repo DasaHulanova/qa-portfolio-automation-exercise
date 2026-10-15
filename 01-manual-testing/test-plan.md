@@ -30,7 +30,7 @@ testing process (planning, test design, execution, reporting).
 - Test data: fictitious user accounts (no real personal data)
 
 ## 4. Tools
-- Google sheet – test cases and test execution results
+- Google Sheets – test cases and test execution results
 - Postman – API testing
 - PostgreSQL + pgAdmin – database testing
 - Git + GitHub – version control and publishing results
