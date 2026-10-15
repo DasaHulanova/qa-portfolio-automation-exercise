@@ -1,4 +1,4 @@
-# QA Portfolio – Automation Exercise
+## QA Portfolio – Automation Exercise
 
 Portfolio project in which I practice the full testing process on the
 [Automation Exercise](https://automationexercise.com) demo e-shop –
